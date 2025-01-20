@@ -1,8 +1,8 @@
 📦 **Projetos:**
-Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
+Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/andresimoesdutra?tab=repositories).
 
 📩 **Contato:**
-[LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
+[LinkedIn](https://www.linkedin.com/in/andresimoesdutra/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
 
 ##
 
