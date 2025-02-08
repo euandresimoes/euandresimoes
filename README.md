@@ -10,8 +10,8 @@ Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,go,spring,angular,electron,bootstrap" alt="Tecnologias Backend" />
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,spring,angular,sass" alt="Tecnologias Backend" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,docker,windows,linux" alt="Ferramentas de Desenvolvimento" />
+    <img src="https://skillicons.dev/icons?i=mysql,docker,windows,linux,excel" alt="Ferramentas de Desenvolvimento" />
   </a>
 </p>
