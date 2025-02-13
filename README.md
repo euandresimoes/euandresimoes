@@ -1,17 +1,54 @@
-📦 **Projetos:**
+# 👨‍💻 André Simões
+
+### 💻 **Sobre Mim:**
+Sou um desenvolvedor fullstack, focado principalmente em backend. Estou sempre buscando aprender e aplicar novas tecnologias. Estou sempre em busca de desafios que me ajudem a crescer como profissional.
+
+### 📦 **Projetos:**
 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/andresimoesdutra?tab=repositories).
 
-📩 **Contato:**
+### 📩 **Contato:**
 [LinkedIn](https://www.linkedin.com/in/andresimoesdutra/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
 
-##
+---
 
-### 🛠️ Linguagens e Tecnologias:
+## 🛠️ Linguagens e Tecnologias
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,spring,angular,sass" alt="Tecnologias Backend" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,docker,windows,linux,excel" alt="Ferramentas de Desenvolvimento" />
-  </a>
-</p>
+### **Backend:**
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- Node.js (Express)
+- MySQL
+- PostgreSQL
+- Docker
+- Postman
+
+### **Frontend:**
+- JavaScript
+- TypeScript
+- Angular
+- jQuery
+- Bootstrap
+- Tailwind CSS
+- Sass
+- Figma
+
+### **Arquitetura:**
+- Clean Architecture
+
+### **Práticas:**
+- SOLID
+
+### **Testes:**
+- Vitest
+- Jest
+- Supertest
+- JUnit
+
+### **Outros:**
+- Windows
+- Linux
+- Excel
+- Word
+- Power BI
