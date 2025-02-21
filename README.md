@@ -13,7 +13,8 @@ Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com
 
 ### 🛠️ Linguagens e Tecnologias
 
-<h4>**Frontend:** JavaScript, TypeScript, AngularJS, jQuery, Bootstrap, Tailwind CSS</h3>
+**Frontend:** JavaScript, TypeScript, AngularJS, jQuery, Bootstrap, Tailwind CSS
+<br>
 **Backend:** Java, Spring Boot, Node.js, Express, Jwt, Docker
 <br>
 **Databases:** MySQL, PostgreSQL
