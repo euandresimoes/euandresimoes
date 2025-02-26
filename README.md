@@ -7,7 +7,7 @@ Sou desenvolvedor Fullstack, tenho 18 anos de idade e estou sempre em busca de f
 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/andresimoesdutra?tab=repositories).
 
 ### 📩 **Contato:**
-[LinkedIn](https://www.linkedin.com/in/andresimoesdutra/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
+[LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
 
 ---
 
