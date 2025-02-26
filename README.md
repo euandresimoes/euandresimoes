@@ -1,7 +1,7 @@
 # 👨‍💻 André Simões
 
 ### 💻 **Sobre Mim:**
-Sou desenvolvedor Full-stack, tenho 18 anos de idade e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Exploro diferentes tecnologias para sempre criar aplicações mais completas.
+Sou desenvolvedor Fullstack, tenho 18 anos de idade e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Exploro diferentes tecnologias para sempre criar aplicações mais completas.
 
 ### 📦 **Projetos:**
 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/andresimoesdutra?tab=repositories).
