@@ -2,7 +2,7 @@
 Sou um desenvolvedor Fullstack com foco em backend. Tenho 18 anos e gosto de criar projetos para aprimorar minhas habilidades e explorar novas tecnologias.
 
 ### 📦 **Projetos:**
-Veja todos os meus projetos em [Meus Projetos](https://github.com/euandresimoes?tab=repositories) ou no [Portfólio](https://github.com/euandresimoes).
+Veja todos os meus projetos em [Meus Projetos](https://github.com/euandresimoes?tab=repositories&q=&type=public&language=&sort=) ou no [Portfólio](https://github.com/euandresimoes).
 
 ### 📩 **Contato:**
 [LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
