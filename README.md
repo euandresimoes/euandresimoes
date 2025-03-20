@@ -1,26 +1,24 @@
-# 👨‍💻 André Simões
-
-### 💻 **Sobre Mim:**
-Sou desenvolvedor Fullstack, tenho 18 anos de idade e estou sempre em busca de fazer novos projetos para aprimorar minhas habilidades. Exploro diferentes tecnologias para sempre criar aplicações mais completas.
+### 👋 André Simões
+Sou um desenvolvedor Fullstack com foco em backend. Tenho 18 anos e gosto de criar projetos para aprimorar minhas habilidades e explorar novas tecnologias.
 
 ### 📦 **Projetos:**
-Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/euandresimoes?tab=repositories).
+Veja todos os meus projetos em [Meus Projetos](https://github.com/euandresimoes?tab=repositories) ou no [Portfólio](https://github.com/euandresimoes).
 
 ### 📩 **Contato:**
 [LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
 
----
-
 ### 🛠️ Linguagens e Tecnologias
 
-**Frontend:** JavaScript, TypeScript, AngularJS, React, Next.js, jQuery, Bootstrap, Tailwind CSS
+**Frontend:** TypeScript, React, Next.js, AngularJS, Bootstrap, Tailwind CSS
 <br>
-**Backend:** Java, Spring Boot, Node.js, Express, Jwt, Docker
+**Backend:** Java, Spring Boot, Node.js
 <br>
-**Databases:** MySQL, PostgreSQL
+**Cloud & DevOps:** Docker, AWS
 <br>
-**Testes:** Jest, JUnit
+**Banco de dados:** MySQL, PostgreSQL
 <br>
-**Arquitetura:** Clean Architecture, SOLID
+**Testes:** JUnit, Jest
+<br>
+**Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
