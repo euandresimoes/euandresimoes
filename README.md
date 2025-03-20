@@ -22,3 +22,5 @@ Veja todos os meus projetos em [Meus Projetos](https://github.com/euandresimoes?
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
+<br>
+**Idiomas**: Inglês (B1), Francês (A1)
