@@ -9,7 +9,7 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 
 ### 🛠️ Linguagens e Tecnologias
 
-**Frontend:** TypeScript, React, Next.js, AngularJS, Bootstrap, Tailwind CSS
+**Frontend:** TypeScript, React, Next.js, AngularJS, Bootstrap, jQuery, Tailwind CSS
 <br>
 **Backend:** Java, Spring Boot, Node.js
 <br>
