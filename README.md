@@ -23,4 +23,4 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
 <br>
-**Idiomas**: Inglês (B1), Francês (A1)
+**Idiomas**: Português (Nativo), Inglês (B1), Francês (A1)
