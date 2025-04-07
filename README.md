@@ -10,7 +10,7 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 ### 🛠️ Linguagens e Tecnologias
 **Idiomas**: Português (Nativo), Inglês (B1)
 <br>
-**Frontend:** TypeScript, React, Next.js, Vite, AngularJS, Bootstrap, jQuery, Tailwind CSS
+**Frontend:** TypeScript, React.js, Next.js, Vite, AngularJS, Bootstrap, jQuery, Tailwind CSS
 <br>
 **Backend:** Java, Spring Boot, Node.js, Express.js
 <br>
