@@ -17,7 +17,7 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 <br>
 **Banco de dados:** MySQL, PostgreSQL
 <br>
-**Testes:** JUnit, Jest
+**Testes:** JUnit, Mockito, Jest
 <br>
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
