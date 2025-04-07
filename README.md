@@ -8,7 +8,8 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **[LinkedIn](https://www.linkedin.com/in/euandresimoes/)** | **[andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)**
 
 ### 🛠️ Linguagens e Tecnologias
-
+**Idiomas**: Português (Nativo), Inglês (B1)
+<br>
 **Frontend:** TypeScript, React, Next.js, Vite, AngularJS, Bootstrap, jQuery, Tailwind CSS
 <br>
 **Backend:** Java, Spring Boot, Node.js, Express.js
@@ -24,5 +25,3 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
-<br>
-**Idiomas**: Português (Nativo), Inglês (B1), Francês (A1)
