@@ -1,5 +1,5 @@
 ### 👋 André Simões
-Sou um desenvolvedor Fullstack com foco em backend. Tenho 18 anos e gosto de criar novos projetos e sempre explorar novas tecnologias.
+Comecei a estudar programação em 2020, aos 14 anos, criando bots com Python. Desde então, venho explorando novas tecnologias, desenvolvendo projetos por conta própria e sempre tentando ser melhor do que fui no dia anterior.
 
 ### 📦 **Projetos:**
 Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoes?tab=repositories&q=&type=public&language=&sort=)**
