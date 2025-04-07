@@ -12,7 +12,7 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 <br>
 **Frontend:** TypeScript, React.js, Next.js, Vite, AngularJS, Bootstrap, jQuery, Tailwind CSS
 <br>
-**Backend:** Java, Spring Boot, Node.js, Express.js
+**Backend:** Java, Spring Boot, Node.js, Express.js, C
 <br>
 **Cloud & DevOps:** Docker, AWS
 <br>
