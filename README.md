@@ -17,6 +17,8 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 <br>
 **Banco de dados:** MySQL, PostgreSQL
 <br>
+**ORMs:** Hibernate, TypeORM, Sequelize
+<br>
 **Testes:** JUnit, Mockito, Jest
 <br>
 **Arquitetura:** Clean Architecture, SOLID, DDD
