@@ -10,13 +10,15 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 ### 🛠️ Linguagens e Tecnologias
 **Idiomas**: Português (Nativo), Inglês (B1)
 <br>
-**Frontend:** TypeScript, React.js, Next.js, Vite, AngularJS, Bootstrap, jQuery, Tailwind CSS
+**Frontend:** JavaScript,k TypeScript, React.js, Vite, AngularJS, jQuery, Tailwind CSS
 <br>
-**Backend:** Java, Spring Boot, Node.js, Express.js, C
+**Backend:** Java, Spring Boot, Node.js, Express.js, Elixir
 <br>
-**Cloud & DevOps:** Docker, AWS
+**Cloud & DevOps:** Docker, AWS, Prometheus
 <br>
-**Banco de dados:** MySQL, PostgreSQL
+**Banco de dados:** MySQL, PostgreSQL, Redis
+<br>
+**Mensageria:** RabbitMQ
 <br>
 **ORMs:** Hibernate, TypeORM, Sequelize
 <br>
