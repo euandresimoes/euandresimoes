@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "green",
+        "type": "normal",
         "fileName": "night.svg",
         "backgroundColor": "#00000f",
         "foregroundColor": "#eeeeff",
