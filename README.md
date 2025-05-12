@@ -27,5 +27,3 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
-
-![](https://raw.githubusercontent.com/euandresimoes/euandresimoes/output-3d-contrib/night.svg)
