@@ -27,3 +27,5 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
+
+![](./profile-3d-contrib/profile-green-animate.svg)
