@@ -28,4 +28,4 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
 
-![3D GitHub Profile Contribution Chart](https://raw.githubusercontent.com/euandresimoes/euandresimoes/output-3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![](https://raw.githubusercontent.com/euandresimoes/euandresimoes/output-3d-contrib/night.svg)
