@@ -74,10 +74,4 @@
   </p>
 </details>
 
-<details>
-  <summary><h3>📩 <strong>Contact</strong></h3></summary>
-  
-  - [LinkedIn](https://www.linkedin.com/in/euandresimoes/)  
-  - [andre.simoesdutra23@gmail.com](mailto:andre.simoesdutra23@gmail.com)
-</details>
-
+<img src="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/snake.svg"/>
