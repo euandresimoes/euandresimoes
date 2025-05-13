@@ -27,3 +27,9 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake.svg" />
+</picture>
