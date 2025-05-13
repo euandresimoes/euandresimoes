@@ -15,17 +15,16 @@
     <summary>
       <h1>
         <samp>Hi, I'm
-          <b>Andre</b>
+          <b>Andre!</b>
         </samp>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h1>
+      <p align="center">
+        <strong>I started studying programming in 2020, at the age of 14, creating bots with Python. Since then, I have been exploring new technologies, developing projects on my own, and always trying to be better than I was the day before.</strong>
+      </p>
     </summary>
   </ul>
 </div>
-
-<p align="center">
-  <strong>I started studying programming in 2020, at the age of 14, creating bots with Python. Since then, I have been exploring new technologies, developing projects on my own, and always trying to be better than I was the day before.</strong>
-</p>
 
 <details>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
@@ -74,4 +73,4 @@
   </p>
 </details>
 
-<img src="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/snake.svg"/>
+![Snake animation](https://github.com/euandresimoes/euandresimoes/blob/output/github-contribution-grid-snake.svg)
