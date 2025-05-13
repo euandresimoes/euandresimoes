@@ -1,3 +1,7 @@
+![banner](https://github.com/user-attachments/assets/4e95fade-a458-4b8a-aa42-1a8d7afd2fb3)
+
+<br/>
+
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=euandresimoes&repo=github-visitors-badge&label=%F0%9F%91%80%20VISITORS&countColor=%23F3F8FF&labelColor=black"  />
   &nbsp;&nbsp;
@@ -13,8 +17,6 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/euandresimoes?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%2349108B" />
 </p>
-
-![banner](https://github.com/user-attachments/assets/4e95fade-a458-4b8a-aa42-1a8d7afd2fb3)
 
 <h1 align="center">
   <samp>Hi, I'm
