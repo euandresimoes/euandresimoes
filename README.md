@@ -22,12 +22,6 @@
 </p>
 
 <details>
-  <summary><h3>📦 <strong>Projects</strong></h3></summary>
-
-  
-</details>
-
-<details>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
   - **Languages**: Portuguese (Native), English (B1)  
@@ -40,6 +34,12 @@
   - **Testing:** JUnit, Mockito, Jest  
   - **Architecture:** Clean Architecture, SOLID, DDD  
   - **Other Tools:** Linux, Windows, Excel, Word, Power BI  
+</details>
+
+<details>
+  <summary><h3>📦 <strong>Projects</strong></h3></summary>
+
+  
 </details>
 
 <details>
