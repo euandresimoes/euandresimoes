@@ -1,5 +1,12 @@
-### 👋 André Simões
-Comecei a estudar programação em 2020, aos 14 anos, criando bots com Python. Desde então, venho explorando novas tecnologias, desenvolvendo projetos por conta própria e sempre tentando ser melhor do que fui no dia anterior.
+![banner](https://github.com/user-attachments/assets/4e95fade-a458-4b8a-aa42-1a8d7afd2fb3)
+
+
+<h2 align="center">
+  <samp>Hi, I'm
+        <b>André</b>
+  </samp>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 ### 📦 **Projetos:**
 Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoes?tab=repositories&q=&type=public&language=&sort=)**
@@ -27,9 +34,3 @@ Veja todos os meus projetos em **[Meus Projetos](https://github.com/euandresimoe
 **Arquitetura:** Clean Architecture, SOLID, DDD
 <br>
 **Outras Ferramentas:** Linux, Windows, Excel, Word, Power BI
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/euandresimoes/euandresimoes/output/github-snake.svg" />
-</picture>
