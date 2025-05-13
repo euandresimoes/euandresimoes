@@ -28,7 +28,7 @@
   </ul>
 </div>
 
-<details>
+<details open>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
   - **Languages**: Portuguese (Native), English (B1)  
@@ -43,7 +43,7 @@
   - **Other Tools:** Linux, Windows, Excel, Word, Power BI  
 </details>
 
-<details>
+<details open>
   <summary><h3>📦 <strong>Projects</strong></h3></summary>
 
   <!--- Verus Project -->
