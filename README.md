@@ -15,7 +15,7 @@
     <summary>
       <h1>
         <samp>Hi, I'm
-          <b>André</b>
+          <b>Andre</b>
         </samp>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h1>
@@ -50,9 +50,9 @@
   <div id="toc" align="center">
   <ul style="list-style: none">
       <summary>
-        <h3>
+        <h2>
           Verus CLI - The AI-Powered Commit Assistant
-        </h3>
+        </h2>
       </summary>
     </ul>
   </div>
