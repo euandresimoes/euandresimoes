@@ -37,7 +37,7 @@
   - **Cloud & DevOps:** Docker, AWS, Prometheus  
   - **Databases:** MySQL, PostgreSQL, Redis  
   - **Messaging:** RabbitMQ  
-  - **ORMs:** Hibernate, TypeORM, Sequelize  
+  - **ORMs:** Hibernate, TypeORM, Sequelize, Prisma ORM
   - **Testing:** JUnit, Mockito, Jest  
   - **Architecture:** Clean Architecture, SOLID, DDD  
   - **Other Tools:** Linux, Windows, Excel, Word, Power BI  
