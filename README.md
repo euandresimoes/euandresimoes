@@ -40,7 +40,7 @@
   - **ORMs:** Hibernate, PrismaORM, TypeORM, Sequelize
   - **Testing:** JUnit, Jest
   - **Architecture:** Clean Architecture, SOLID
-  - **Design Styles:** Microservices, Monolith, Modular Monolith
+  - **Architectural Patterns:** Microservices, Monolith, Modular Monolith
   - **Operating Systems:** Windows, Linux
   - **Other Tools:** Excel, Word, Power BI, Figma
 </details>
