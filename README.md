@@ -77,6 +77,8 @@
   </p>
 </details>
 
+<!--
 <div align="center">
   <img src="https://github.com/euandresimoes/euandresimoes/blob/output/github-snake-dark.svg"/>
 </div>
+-->
