@@ -21,9 +21,6 @@
         </samp>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h1>
-      <p align="center">
-        <strong>I started studying programming in 2020, at the age of 14, creating bots with Python. Since then, I have been exploring new technologies, developing projects, and always trying to be better than I was the day before.</strong>
-      </p>
     </summary>
   </ul>
 </div>
