@@ -36,7 +36,6 @@
   - **Cloud & DevOps:** Docker, AWS, Nginx 
   - **ORMs:** Hibernate, PrismaORM, TypeORM, Sequelize
   - **Testing:** JUnit, Jest
-  - **Architecture:** Clean Architecture, SOLID
   - **Architectural Patterns:** Microservices, Monolith, Modular Monolith
   - **Operating Systems:** Windows, Linux
   - **Other Tools:** Excel, Word, Power BI, Figma
