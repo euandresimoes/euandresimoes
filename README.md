@@ -60,7 +60,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/euandresimoes/verus">
-      <img src="https://img.shields.io/badge/🐈‍⬛-REPO-FFE162?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/🐈-REPO-FFE162?style=for-the-badge&labelColor=000000"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.npmjs.com/package/verus-cli">
