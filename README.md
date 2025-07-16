@@ -28,17 +28,14 @@
 <details open>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
-  - **Languages:** Portuguese (Native), English (B1)  
-  - **Programming Languages:** JavaScript, TypeScript, Java  
-  - **Frontend:** ReactJS, Next.js, Vite, Angular, jQuery, Tailwind CSS  
-  - **Backend:** Spring Boot, Node.js, NestJS
-  - **Databases:** MySQL, PostgreSQL, Redis
-  - **Cloud & DevOps:** Docker, AWS, Nginx 
-  - **ORMs:** Hibernate, PrismaORM, TypeORM, Sequelize
-  - **Testing:** JUnit, Jest
-  - **Architectural Patterns:** Microservices, Monolith, Modular Monolith
-  - **Operating Systems:** Windows, Linux
-  - **Other Tools:** Excel, Word, Power BI, Figma
+- **Languages:** Portuguese (Native), English (B1)
+- **Frontend:** ReactJS, Angular
+- **Backend:** Node.js, NestJS, Java, Spring Boot
+- **Databases:** MySQL, PostgreSQL, Redis
+- **ORMs:** Prisma, TypeORM, Sequelize, Hibernate
+- **Testing:** JUnit, Jest
+- **Cloud & DevOps:** Nginx, Docker, AWS
+- **Software Architecture:** Microservices, Monolith, Modular Monolith
 </details>
 
 <details open>
