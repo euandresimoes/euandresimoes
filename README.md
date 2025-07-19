@@ -32,7 +32,7 @@
 - **Frontend:** ReactJS, Angular
 - **Backend:** Node.js, NestJS, Java, Spring Boot
 - **Databases:** MySQL, PostgreSQL, Redis
-- **ORMs:** Prisma, TypeORM, Sequelize, Hibernate
+- **ORMs:** Prisma, TypeORM
 - **Testing:** JUnit, Jest
 - **Cloud & DevOps:** Nginx, Docker, AWS
 - **Software Architecture:** Microservices, Monolith, Modular Monolith
