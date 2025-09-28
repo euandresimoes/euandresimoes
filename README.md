@@ -29,7 +29,7 @@
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
 - **Languages:** Portuguese (Native), English (B1)
-- **Frontend:** ReactJS, Angular
+- **Frontend:** Vue.js, Next.js
 - **Backend:** Node.js, NestJS, Java, Spring Boot
 - **Databases:** MySQL, PostgreSQL, Redis
 - **ORMs:** Prisma, TypeORM
