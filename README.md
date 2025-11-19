@@ -30,7 +30,7 @@
 
 - **Languages:** Portuguese (Native), English (B1)
 - **Frontend:** Vue.js, Next.js
-- **Backend:** Node.js, NestJS, Java, Spring Boot
+- **Backend:** Go, Gin, Node.js, NestJS, Java, Spring Boot
 - **Databases:** MySQL, PostgreSQL, Redis
 - **ORMs:** Prisma, TypeORM
 - **Testing:** JUnit, Jest
