@@ -29,12 +29,12 @@
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
 - **Languages:** Portuguese (Native), English (B1)
-- **Frontend:** Vue.js, Next.js
-- **Backend:** Go, Gin, Node.js, NestJS, Java, Spring Boot
-- **Databases:** MySQL, PostgreSQL, Redis
+- **Frontend:** Vue.js, React.js, Vite
+- **Backend:** Go, Chi, Node.js, NestJS
+- **Databases:** PostgreSQL, MySQL, Redis
 - **ORMs:** Prisma, TypeORM
 - **Testing:** JUnit, Jest
-- **Cloud & DevOps:** Nginx, Docker, AWS
+- **DevOps & Cloud:** Docker, AWS
 - **Software Architecture:** Microservices, Monolith, Modular Monolith
 </details>
 
