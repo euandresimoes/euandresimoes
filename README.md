@@ -56,11 +56,15 @@
   </p>
   <p align="center">
     <a href="https://github.com/euandresimoes/holo-studio">
-      <img src="https://img.shields.io/badge/🚀-REPO-FFE162?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/📦-REPO-F59714?style=for-the-badge&labelColor=000000"/>
     </a>
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/euandresimoes/holo-studio?style=for-the-badge&label=%E2%AD%90%20STARS&labelColor=black&color=%23FB2576"/>
+    <a href="https://hub.docker.com/r/holostudio/studio">
+      <img src="https://img.shields.io/badge/🐋-DOCKER-0F6FFF?style=for-the-badge&labelColor=000000"/>
+    </a>
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/repo-size/euandresimoes/holo-studio?style=for-the-badge&label=%F0%9F%9B%A0%EF%B8%8F%20SIZE&labelColor=black&color=%23332FD0"/>
+    <a href="https://holostudio.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐-WEBSITE-D15454?style=for-the-badge&labelColor=000000"/>
+    </a>
   </p>
 </details>
