@@ -38,7 +38,7 @@
 </details>
 
 <details open>
-  <summary><h3>📦 <strong>Projects</strong></h3></summary>
+  <summary><h3>📦 <strong>Public Projects</strong></h3></summary>
 
   <!--- Verus Project -->
   <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
