@@ -28,7 +28,7 @@
 <details open>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
-- **Languages:** Portuguese (Native), English (B1)
+- **Languages:** Portuguese, English, Spanish
 - **Frontend:** Vue.js, React.js
 - **Backend:** Go, Chi, Node.js, NestJS, Java, Spring Boot
 - **Databases:** PostgreSQL, MySQL, Redis
