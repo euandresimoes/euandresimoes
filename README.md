@@ -30,11 +30,10 @@
 
 - **Languages:** Portuguese, English, Spanish
 - **Frontend:** Vue.js, React.js
-- **Backend:** Go, Chi, Node.js, NestJS, Java, Spring Boot
-- **Databases:** PostgreSQL, MySQL, Redis
-- **ORMs:** Prisma, TypeORM
+- **Backend:** Java, Spring Boot, Node.js, NestJS, Go, Chi
+- **Databases:** PostgreSQL, MySQL, Supabase, Redis
 - **Testing:** Testify, Jest, JUnit
-- **DevOps & Cloud:** Docker, AWS
+- **DevOps & Cloud:** Docker, AWS, RabbitMQ
 </details>
 
 <details open>
