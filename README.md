@@ -29,15 +29,15 @@
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
 - **Languages:** Portuguese, English, Spanish
-- **Frontend:** Vue.js, React.js
-- **Backend:** Java, Spring Boot, Node.js, NestJS, Go, Chi
-- **Databases:** PostgreSQL, MySQL, Supabase, Redis
-- **Testing:** Testify, Jest, JUnit
-- **DevOps & Cloud:** Docker, AWS, RabbitMQ
+- **Frontend:** Vue.js, TailwindCSS
+- **Backend:** Java, Node.js, Golang
+- **Databases:** PostgreSQL, Supabase, Redis
+- **Testing:** JUnit, Jest
+- **DevOps & Cloud:** Docker, RabbitMQ, AWS
 </details>
 
 <details open>
-  <summary><h3>📦 <strong>Public Projects</strong></h3></summary>
+  <summary><h3>📦 <strong>Projects</strong></h3></summary>
 
   <!--- Verus Project -->
   <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
@@ -45,16 +45,13 @@
   <ul style="list-style: none">
       <summary>
         <h2>
-          Holo Studio - A Docker-first database experience.
+          <strong>Holo Studio</strong> is a modern database management<br>GUI that runs entirely inside Docker.
         </h2>
       </summary>
     </ul>
   </div>
   <p align="center">
-    <strong>Holo Studio</strong> is a modern database management GUI that runs entirely inside Docker.
-  </p>
-  <p align="center">
-    <a href="https://github.com/euandresimoes/holo-studio">
+    <a href="https://github.com/Auvexis/holo-studio">
       <img src="https://img.shields.io/badge/📦-REPO-F59714?style=for-the-badge&labelColor=000000"/>
     </a>
     &nbsp;&nbsp;
