@@ -29,27 +29,21 @@
   <summary><h3>📦 <strong>Projects</strong></h3></summary>
 
   <!--- Verus Project -->
+  <div align="center">
   <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
-  <div id="toc" align="center">
-  <ul style="list-style: none">
-      <summary>
-        <h2>
-          <strong>Holo Studio</strong> is a modern database management<br>GUI that runs entirely inside Docker.
-        </h2>
-      </summary>
-    </ul>
+   
+  ##
+    
+  <br>
+  
+  > **Database tools should be simple, portable, and predictable.**  
+  
+  If Docker runs on your machine, Holo Studio runs too, Windows, macOS, or Linux,<br>always with the same experience
+  
+  **Zero downloads • Zero installation • 100% Docker**
+  
+  [🌐 Website](https://holo.auvexis.com) • [🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
+  <br>
+  [🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • [✨ Features](https://github.com/Auvexis/holo-studio#-features) • [🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • [🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
   </div>
-  <p align="center">
-    <a href="https://github.com/Auvexis/holo-studio">
-      <img src="https://img.shields.io/badge/📦-REPO-F59714?style=for-the-badge&labelColor=000000"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://hub.docker.com/r/holostudio/studio">
-      <img src="https://img.shields.io/badge/🐋-DOCKER-0F6FFF?style=for-the-badge&labelColor=000000"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://holostudio.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐-WEBSITE-D15454?style=for-the-badge&labelColor=000000"/>
-    </a>
-  </p>
 </details>
