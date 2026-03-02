@@ -25,15 +25,20 @@
 - **DevOps & Cloud:** Docker, RabbitMQ, AWS
 </details>
 
+<h3>🏢 <strong>Organization</strong></h3>
+
+> I run and maintain my main projects under my own organization, [Auvexis](https://github.com/Auvexis), where I build and manage production-ready products.  
+> This account is focused on personal work and experimental projects.
+
 <details open>
-  <summary><h3>📦 <strong>Projects</strong></h3></summary>
+  <summary><h3>📦 <strong>Featured Projects</strong></h3></summary>
 
   <!--- Verus Project -->
   <div align="center">
   <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
-   
+
   ##
-    
+  
   <br>
   
   > **Database tools should be simple, portable, and predictable.**  
