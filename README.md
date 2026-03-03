@@ -49,8 +49,10 @@
   <br>
   [🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • [✨ Features](https://github.com/Auvexis/holo-studio#-features) • [🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • [🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
   </div>
-
-  <br><br>
+  
+#
+  
+  <br>
   
   <div align="center">
 
@@ -58,7 +60,7 @@
   
   <br>
   
-  > <h3>Vanguard is a production-ready authentication platform that demonstrates secure JWT handling, refresh token rotation, adaptive rate limiting, and event-driven architecture using Spring Boot 3.</h3>
+  > <h3>Vanguard is a production-ready authentication platform that demonstrates secure JWT handling, refresh token rotation, rate limiting, and event-driven architecture using Spring Security.</h3>
   
   🌐 Try Vanguard Live Demo: https://vanguard.auvexis.com
   <br><br>
