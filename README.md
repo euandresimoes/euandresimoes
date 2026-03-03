@@ -37,18 +37,35 @@
   <div align="center">
   <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
 
-  ##
-  
   <br>
+
+  > <h3>Holo Studio is a Docker-based database studio built for developers who want a predictable, portable, and zero-installation way to manage databases.</h3>
   
-  > **Database tools should be simple, portable, and predictable.**  
-  
-  If Docker runs on your machine, Holo Studio runs too, Windows, macOS, or Linux,<br>always with the same experience
+  <h4>If Docker runs on your machine, Holo Studio runs too, Windows, macOS, or Linux,<br>always with the same experience.</h4>
   
   **Zero downloads • Zero installation • 100% Docker**
   
   [🌐 Website](https://holo.auvexis.com) • [🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
   <br>
   [🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • [✨ Features](https://github.com/Auvexis/holo-studio#-features) • [🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • [🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
+  </div>
+
+  <br><br>
+  
+  <div align="center">
+
+  <img width="1401" height="200" alt="vanguard_banner" src="https://github.com/user-attachments/assets/2e233c5e-7d19-48f9-915e-904993c12f88" />
+  
+  <br>
+  
+  > <h3>Vanguard is a production-ready authentication platform that demonstrates secure JWT handling, refresh token rotation, adaptive rate limiting, and event-driven architecture using Spring Boot 3.</h3>
+  
+  🌐 Try Vanguard Live Demo: https://vanguard.auvexis.com
+  <br><br>
+  [🚀 Getting Started](https://github.com/Auvexis/Vanguard#-getting-started) • 
+  [🔌 API Reference](https://github.com/Auvexis/Vanguard#-api-reference) • 
+  [🔒 Security Features](https://github.com/Auvexis/Vanguard#-security-features) • 
+  [🏗 Architecture](https://github.com/Auvexis/Vanguard#-architecture)
+  
   </div>
 </details>
