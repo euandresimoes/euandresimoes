@@ -18,11 +18,11 @@
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
 - **Languages:** Portuguese, English, Spanish
-- **Frontend:** Vue.js, TailwindCSS
-- **Backend:** Java, Node.js, Golang
-- **Databases:** PostgreSQL, Supabase, Redis
+- **Frontend:** JavaScript, TypeScript, React, Vue.js, TailwindCSS
+- **Backend:** Java, Spring Boot, Node.js, NestJS, Golang Chi, RabbitMQ
+- **Databases:** PostgreSQL, MySQL, Supabase, Redis
 - **Testing:** JUnit, Jest
-- **DevOps & Cloud:** Docker, RabbitMQ, AWS
+- **DevOps & Cloud:** Docker, AWS
 </details>
 
 <h3>🏢 <strong>Organization</strong></h3>
