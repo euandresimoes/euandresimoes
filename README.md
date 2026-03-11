@@ -30,6 +30,13 @@
 - **DevOps & Cloud:** Docker, AWS
 </details>
 
+### 🚀 What I focus on
+
+- Building secure APIs with **Java & Spring Boot**
+- Authentication systems (**JWT, RBAC, rate limiting**)
+- Event-driven architectures with **RabbitMQ**
+- Containerized applications using **Docker**
+
 <h3>🏢 <strong>Organization</strong></h3>
 
 > I run and maintain my main projects under my own organization, [Auvexis](https://github.com/Auvexis), where I build and manage production-ready products.  
