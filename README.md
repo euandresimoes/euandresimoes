@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Backend Developer · Java & Spring Boot</h2>
+  <h2>Backend Developer · Java & Spring Boot</h2>
 
-  <p align="center">
-    I build production-ready backend systems using Java and Spring Boot.<br>
-    Started coding at 14 and currently developing real-world projects.
+  <p>
+    I build production-ready backend systems using <b>Java</b> and <b>Spring Boot</b>.<br>
+    Started coding at 14 and currently developing real-world backend projects.
   </p>
 </div>
 
@@ -22,62 +22,97 @@
 <details open>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
-- **Languages:** Portuguese, English
-- **Frontend:** JavaScript, TypeScript, React, Vue.js
-- **Backend:** Java, Spring Boot, Node.js, NestJS, Golang Chi, RabbitMQ
-- **Databases:** PostgreSQL, Redis
-- **Testing:** JUnit, Jest
-- **DevOps & Cloud:** Docker, AWS
+- **Languages:** Portuguese, English  
+- **Frontend:** JavaScript, TypeScript, React, Vue.js  
+- **Backend:** Java, Spring Boot, Node.js, NestJS, Golang Chi, RabbitMQ  
+- **Databases:** PostgreSQL, Redis  
+- **Testing:** JUnit, Jest  
+- **DevOps & Cloud:** Docker, AWS  
+
 </details>
-
-### 🚀 What I focus on
-
-- Building secure APIs with **Java & Spring Boot**
-- Authentication systems (**JWT, RBAC, rate limiting**)
-- Event-driven architectures with **RabbitMQ**
-- Containerized applications using **Docker**
 
 <h3>🏢 <strong>Organization</strong></h3>
 
-> I run and maintain my main projects under my own organization, [Auvexis](https://github.com/Auvexis), where I build and manage production-ready products.  
-> This account is focused on personal work and experimental projects.
+> I maintain my main projects under my organization **[Auvexis](https://github.com/Auvexis)**,  
+> where I build and manage production-ready backend products.  
+> This account is mainly used for personal work and experimental projects.
+
+---
 
 <details open>
   <summary><h3>📦 <strong>Featured Projects</strong></h3></summary>
 
-  <!--- Projects -->
-  <div align="center">
+<div align="center">
 
-  <img width="1401" height="200" alt="vanguard_banner" src="https://github.com/user-attachments/assets/2e233c5e-7d19-48f9-915e-904993c12f88" />
-  
-  <br>
-  
-  > <h3>Vanguard is a production-ready authentication platform that demonstrates secure JWT handling, refresh token rotation, rate limiting, and event-driven architecture using Spring Security.</h3>
-  
-  🌐 Try Vanguard Live Demo: https://vanguard.auvexis.com
-  <br><br>
-  [🚀 Getting Started](https://github.com/Auvexis/Vanguard#-getting-started) • 
-  [🔌 API Reference](https://github.com/Auvexis/Vanguard#-api-reference) • 
-  [🔒 Security Features](https://github.com/Auvexis/Vanguard#-security-features) • 
-  [🏗 Architecture](https://github.com/Auvexis/Vanguard#-architecture)
-  
-  </div>
+<img width="1401" height="200" alt="vanguard_banner" src="https://github.com/user-attachments/assets/2e233c5e-7d19-48f9-915e-904993c12f88" />
 
-  <br>
-  
-  <div align="center">
-  <img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
+<br>
 
-  <br>
+<h3>Production-ready authentication platform built with <b>Spring Boot</b>.</h3>
 
-  > <h3>Holo Studio is a Docker-based database studio built for developers who want a predictable, portable, and zero-installation way to manage databases.</h3>
-  
-  <h4>If Docker runs on your machine, Holo Studio runs too, Windows, macOS, or Linux,<br>always with the same experience.</h4>
-  
-  **Zero downloads • Zero installation • 100% Docker**
-  
-  [🌐 Website](https://holo.auvexis.com) • [🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
-  <br>
-  [🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • [✨ Features](https://github.com/Auvexis/holo-studio#-features) • [🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • [🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
-  </div>
+🚀 **Live Demo:** https://vanguard.auvexis.com
+
+</div>
+
+### 🔑 Key Features
+
+- JWT authentication with **refresh token rotation**
+- **Role-Based Access Control (RBAC)**
+- **Rate limiting** protection against brute-force attacks
+- **Event-driven email system** with RabbitMQ
+- Secure password hashing and validation
+- Fully **Dockerized deployment**
+
+<br>
+
+<div align="center">
+
+[🚀 Getting Started](https://github.com/Auvexis/Vanguard#-getting-started) • 
+[🔌 API Reference](https://github.com/Auvexis/Vanguard#-api-reference) • 
+[🔒 Security Features](https://github.com/Auvexis/Vanguard#-security-features) • 
+[🏗 Architecture](https://github.com/Auvexis/Vanguard#-architecture)
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
+
+<br>
+
+<h3>Docker-based database studio for predictable and portable database management.</h3>
+
+Runs anywhere Docker runs — **Windows, macOS or Linux** — with the same environment and zero installation.
+
+**Zero downloads • Zero installation • 100% Docker**
+
+</div>
+
+### 🔑 Key Features
+
+- **Database management UI** running entirely in Docker
+- Supports **PostgreSQL and multiple database connections**
+- **Zero local installation** required
+- Same development environment across **Windows, macOS, and Linux**
+- Simple **one-command startup**
+- Portable development workflow
+
+<br>
+
+<div align="center">
+
+[🌐 Website](https://holo.auvexis.com) • 
+[🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
+
+[🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • 
+[✨ Features](https://github.com/Auvexis/holo-studio#-features) • 
+[🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • 
+[🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
+
+</div>
+
 </details>
