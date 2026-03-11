@@ -50,6 +50,10 @@
 
 <h3>Production-ready authentication platform built with <b>Spring Boot</b>.</h3>
 
+<p align="center">
+Spring Boot • PostgreSQL • Redis • RabbitMQ • Docker
+</p>
+
 🚀 **Live Demo:** https://vanguard.auvexis.com
 
 </div>
