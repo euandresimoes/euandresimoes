@@ -9,8 +9,12 @@
 </div>
 
 <div align="center">
-  <h2>Backend Developer · Java & Spring Boot</h2>
-  <p>Started coding at 14 · Self-taught · Production-ready projects at <a href="https://github.com/Auvexis">Auvexis</a></p>
+  <h2 align="center">Backend Developer · Java & Spring Boot</h2>
+
+  <p align="center">
+    I build production-ready backend systems using Java and Spring Boot.<br>
+    Started coding at 14 and currently developing real-world projects.
+  </p>
 </div>
 
 <br/>
