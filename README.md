@@ -17,8 +17,6 @@
   </p>
 </div>
 
-<br/>
-
 <details open>
   <summary><h3>🛠️ <strong>Languages & Technologies</strong></h3></summary>
 
