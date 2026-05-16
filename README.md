@@ -29,14 +29,6 @@
 
 </details>
 
-<h3>🏢 <strong>Organization</strong></h3>
-
-> I maintain my main projects under my organization **[Auvexis](https://github.com/Auvexis)**,  
-> where I build and manage production-ready backend products.  
-> This account is mainly used for personal work and experimental projects.
-
----
-
 <details open>
   <summary><h3>📦 <strong>Featured Projects</strong></h3></summary>
 
@@ -73,47 +65,6 @@ Spring Boot • PostgreSQL • Redis • RabbitMQ • Docker
 [🔌 API Reference](https://github.com/Auvexis/Vanguard#-api-reference) • 
 [🔒 Security Features](https://github.com/Auvexis/Vanguard#-security-features) • 
 [🏗 Architecture](https://github.com/Auvexis/Vanguard#-architecture)
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img width="1401" height="200" alt="Logo W Text" src="https://github.com/user-attachments/assets/4acc62ee-d1a1-486c-a5d0-287ca37c3ce1" />
-
-<br>
-
-<h3>Docker-based database studio for predictable and portable database management.</h3>
-
-Runs anywhere Docker runs — **Windows, macOS or Linux** — with the same environment and zero installation.
-
-**Zero downloads • Zero installation • 100% Docker**
-
-</div>
-
-### 🔑 Key Features
-
-- **Database management UI** running entirely in Docker
-- Supports **PostgreSQL and multiple database connections**
-- **Zero local installation** required
-- Same development environment across **Windows, macOS, and Linux**
-- Simple **one-command startup**
-- Portable development workflow
-
-<br>
-
-<div align="center">
-
-[🌐 Website](https://holo.auvexis.com) • 
-[🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
-
-[🚀 Quick Start](https://github.com/Auvexis/holo-studio#-quick-start) • 
-[✨ Features](https://github.com/Auvexis/holo-studio#-features) • 
-[🐳 Why Docker](https://github.com/Auvexis/holo-studio#-why-docker) • 
-[🧰 Usage](https://github.com/Auvexis/holo-studio#-how-to-use)
 
 </div>
 
