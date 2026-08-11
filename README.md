@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
+  <a href="https://github.com/euandresimoes?tab=followers">
+    <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/euandresimoes?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-22?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/euandresimoes?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-24?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="GitHub stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/euandresimoes">
+     <img src="https://api.visitorbadge.io/api/visitors?path=euandresimoes&label=Visitors&labelColor=%23000000&countColor=%23000000&labelStyle=upper" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/euandresimoes?tab=followers">
-    <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&label=Followers&labelColor=000000&color=1f6feb" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/euandresimoes?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-22-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/euandresimoes?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-24-000000?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub stars" />
-  </a>
-  &nbsp;
-  <a href="https://api.visitorbadge.io/api/VisitorHit?user=euandresimoes&repo=github-visitors-badge">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=euandresimoes&repo=github-visitors-badge&label=VISITORS&countColor=%23F3F8FF&labelColor=000000" alt="Visitors" />
-  </a>
+  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
 </div>
 
 <br>
@@ -29,7 +29,7 @@
     <td colspan="2" align="center" valign="middle">
       <a href="https://github.com/euandresimoes"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/euandresimoes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://www.linkedin.com/in/euandresimoes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
       &nbsp;
       <a href="https://github.com/Auvexis"><img src="https://img.shields.io/badge/Auvexis-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Auvexis" /></a>
       &nbsp;
@@ -61,6 +61,8 @@
 <div align="center">
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
 </div>
+
+<br>
 
 <table>
   <tr>
@@ -102,15 +104,6 @@
 </table>
 
 <br>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=euandresimoes&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="Andre GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euandresimoes&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=euandresimoes&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub streak" />
-</div>
 
 <div align="center">
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
@@ -191,7 +184,7 @@
         If you want to talk about fullstack engineering, AI workflows, desktop apps, automation or product architecture, I am always happy to connect.
       </p>
       <p>
-        <a href="https://www.linkedin.com/in/euandresimoes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/euandresimoes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
         &nbsp;
         <a href="https://github.com/Auvexis"><img src="https://img.shields.io/badge/Auvexis-000000?style=for-the-badge&logo=github&logoColor=white" alt="Auvexis" /></a>
         &nbsp;
