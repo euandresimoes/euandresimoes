@@ -86,7 +86,6 @@
         <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
         <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=FFFFFF" alt="Fastify" />
         <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-        <img src="https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131" alt="Tauri" />
         <img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="Vue" />
         <img src="https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
         <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=FFFFFF" alt="LangChain" />
@@ -97,7 +96,6 @@
         <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
-        <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
       </p>
     </td>
   </tr>
