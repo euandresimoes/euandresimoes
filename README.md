@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/euandresimoes?tab=followers">
     <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
   </a>
@@ -14,12 +20,6 @@
   <a href="https://github.com/euandresimoes">
      <img src="https://api.visitorbadge.io/api/visitors?path=euandresimoes&label=Visitors&labelColor=%23000000&countColor=%23000000&labelStyle=upper" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
 </div>
 
 <br>
