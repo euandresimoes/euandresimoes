@@ -167,6 +167,8 @@
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
 </div>
 
+<br>
+
 <table>
   <tr>
     <td width="55%" valign="top">
