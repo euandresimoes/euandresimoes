@@ -1,25 +1,21 @@
 <div align="center">
-  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/euandresimoes?tab=followers">
     <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/euandresimoes?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-22?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="Repositories" />
-  </a>
-  &nbsp;
   <a href="https://github.com/euandresimoes?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-24?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/euandresimoes?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
   </a>
   &nbsp;
   <a href="https://github.com/euandresimoes">
      <img src="https://api.visitorbadge.io/api/visitors?path=euandresimoes&label=Visitors&labelColor=%23000000&countColor=%23000000&labelStyle=upper" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
 </div>
 
 <br>
