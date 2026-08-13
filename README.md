@@ -29,7 +29,7 @@
       &nbsp;
       <a href="https://github.com/Auvexis"><img src="https://img.shields.io/badge/Auvexis-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Auvexis" /></a>
       &nbsp;
-      <a href="https://github.com/euandresimoes?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" /></a>
+      <a href="#projects"><img src="https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" /></a>
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
 </div>
 
-<h2 align="center">Featured Projects</h2>
+<h2 id="projects" align="center">Featured Projects</h2>
 
 <table>
   <tr>
