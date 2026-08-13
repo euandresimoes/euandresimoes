@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://github.com/euandresimoes?tab=followers">
-    <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA+ElEQVRIS+2UvQ3CQAxG7ewAHU0UNzADFDAGDAITwCAwBhQwAzQXZQDYIUYusMLlfnJIEU1ec9Fn5d7J5wShZ1CfemIQRAm2qCzLMwAsmflERBstAIAx5oiIawC4FEWx0oKFU9B4+QsRyeqr2YcQWgJjzB4RtxokwMwHItpp4BHcEXGqQQLM/CCimQYewRMRRxokwMwvIhpr8BfBZ3L0CAm4LrrVoqqq5nVdXzVIIMuyRZ7nNw1cAsE3piFcEyQ4BUJiq7wfm1cgdBlZ12g2CQqEkCS2uRAVCJ52edvSpJNAsC6+0+ZCZ4Eg/ykAmNizHiJJ8AuDIMob2gN0GZPBdg8AAAAQZGVCR0E5MzJGQjc1QjdFOTc4NTD6oUphAAAAAElFTkSuQmCC&logoColor=white&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
   </a>
   &nbsp;
   <a href="https://github.com/euandresimoes?tab=stars">
-    <img src="https://img.shields.io/github/stars/euandresimoes?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
+    <img src="https://img.shields.io/github/stars/euandresimoes?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABD0lEQVRIS+2TwU3EMBBFZ9LDUkDkubA1LAcoA87QAlTAtrCcoQw4QA3sZawUAD1k0EjOaOW1x4nE3vZdYn85eVLmG+HEoK1OxFnQZNEvYuZnfRLR05S1WCr4BoAVEV1Y2GC2IMZ4DwC7tH0IIbyktcsSwTsAXKftRwjhJq1dZgmGYdiM4/hpAQB0XXfV9/2XBRWOBMz8g4grCxYgIr/5fI4ECjO/IuKtBTMQkTciurMgURQoWklEfLTAQUS2tepWBUrWnBpuo1yBot1HxEsLDhCRPRGtLSgwR1AdemmoOa6gVM+cVl1dQTZou1yHl84bsOIKpg+FEIrnYozSutXFFye0RV5DlNYZV/AfnAVN/gDvHm0ZoPxaiQAAABBkZUJHM0IzNEI0RDY5MDE0REMzN17mXM0AAAAASUVORK5CYII=&logoColor=white&labelColor=000000&color=000000" />
   </a>
   &nbsp;
   <a href="https://github.com/euandresimoes">
-     <img src="https://api.visitorbadge.io/api/visitors?path=euandresimoes&label=Visitors&labelColor=%23000000&countColor=%23000000&labelStyle=upper" />
+     <img src="https://api.visitorbadge.io/api/visitors?path=euandresimoes&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA0ElEQVRIS+2UwQ3CMAxF7Y4SOReYAQ6wC6wAE8AKsAscYAa4JOooDYqqWhGK64BawaHvVH+1erGTBmFkkJ9GYhKo/M+InHMHRNzFVYUQjtbafbfKPoo68N5fAGDFQcuViNZcCZQKAhcJRKR+r75Q1/WiaZobBwlVVS2NMXcOMqiCyKgdRLz3GwA4cdCyJaIzVwJFgo44Lm0k73wk+IYigXPugYgzDtp/4WmtnXMgIAqEuUuI+5EV9B1NCenIZgXptVCKdH38RjAk2Q6GZBKovAC/8ksZQgeaTAAAABBkZUJHMEMyMTQ5MURGNjcwRjUwRdoJwU8AAAAASUVORK5CYII=&logoColor=white&label=Visitors&labelColor=%23000000&countColor=%23000000&labelStyle=upper" />
   </a>
 </div>
 
@@ -27,7 +27,9 @@
       &nbsp;
       <a href="https://www.linkedin.com/in/euandresimoes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
       &nbsp;
-      <a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Projects" /></a>
+      <a href="#stack"><img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&logo=onlyoffice&logoColor=white" alt="Projects" /></a>
+      &nbsp;
+      <a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=protondrive&logoColor=white" alt="Projects" /></a>
       &nbsp;
       <a href="https://github.com/Auvexis"><img src="https://img.shields.io/badge/Auvexis-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Auvexis" /></a>
     </td>
@@ -71,7 +73,7 @@
         <li>Shipping systems that balance UX, performance and maintainability</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td id="stack" width="50%" valign="top">
       <h3>Stack I Enjoy Using</h3>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
