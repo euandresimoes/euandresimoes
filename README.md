@@ -75,26 +75,7 @@
     </td>
     <td id="stack" width="50%" valign="top">
       <h3>Stack I Enjoy Using</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-        <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=FFFFFF" alt="Fastify" />
-        <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-        <img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="Vue" />
-        <img src="https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
-        <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=FFFFFF" alt="LangChain" />
-        <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="RAG" />
-        <img src="https://img.shields.io/badge/Vector%20DB-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Vector databases" />
-        <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
-      </p>
+      <p> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="C#" /> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=FFFFFF" alt="Fastify" /> <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /> <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET" /> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="Vue.js" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" /> <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=FFFFFF" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt="LangGraph" /> <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="RAG" /> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" /> <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" /> <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" /> <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> </p>
     </td>
   </tr>
 </table>
