@@ -140,6 +140,31 @@
   </tr>
 </table>
 
+<br>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://streamlet.com.br/">
+        <img src="https://github.com/user-attachments/assets/bb948797-3b14-4bb0-8eca-55bb2d8575b8" width="100%" alt="Streamlet banner" />
+      </a>
+      <br><br>
+      <h3>Streamlet</h3>
+      <p>
+        Streamlet connects your livestream to payment methods, giving viewers new ways to participate through paid giveaways and tournament entries.
+      </p>
+      <p>
+        Create tournaments and giveaways for your viewers and donors, manage paid entries, and keep every interaction connected to your livestream.
+      </p>
+      <p>
+        <a href="https://streamlet.com.br/">
+          <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Streamlet website" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
 </div>
