@@ -115,6 +115,12 @@
 
 <br>
 
+<div align="center">
+  <img src="./assets/Separator.png" width="100%" alt="Separator" />
+</div>
+
+<br>
+
 <table>
   <tr>
     <td width="100%" valign="top">
@@ -144,6 +150,12 @@ https://github.com/user-attachments/assets/daa63062-c605-4a1f-b95b-4dccc83b04b6
 
 <br>
 
+<div align="center">
+  <img src="./assets/Separator.png" width="100%" alt="Separator" />
+</div>
+
+<br>
+
 <table>
   <tr>
     <td width="100%" valign="top">
@@ -168,6 +180,8 @@ https://github.com/user-attachments/assets/daa63062-c605-4a1f-b95b-4dccc83b04b6
 </table>
 
 https://github.com/user-attachments/assets/f84fad6f-1e2f-40af-a318-366e3fff8509
+
+<br>
 
 <div align="center">
   <img src="./assets/Separator.png" width="100%" alt="Separator" />
