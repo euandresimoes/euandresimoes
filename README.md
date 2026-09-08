@@ -104,10 +104,6 @@
       </p>
       <p>
         <a href="https://github.com/Auvexis/fabric"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Fabric repository" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-        <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=n8n&logoColor=FF6D5A" alt="Automation" />
       </p>
     </td>
   </tr>
@@ -136,11 +132,12 @@
         Render Vue interfaces across native Electron windows while keeping state, theme, styles and components unified in a single app runtime.
       </p>
       <p>
-        <a href="https://github.com/RRenderizer/renderizer"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Renderizer repository" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="Vue" />
-        <img src="https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-        <img src="https://img.shields.io/badge/Multi--Window-111111?style=for-the-badge&logo=windowsterminal&logoColor=4CC2FF" alt="Multi-window" />
+        <a href="https://github.com/RRenderizer/renderizer">
+          <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Renderizer repository" />
+        </a>
+        <a href="https://renderizer.auvexis.com/">
+          <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Renderizer website" />
+        </a>
       </p>
     </td>
   </tr>
